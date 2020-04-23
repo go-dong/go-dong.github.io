@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ma_go
-email: gdh145859@ab180.co
+email: gdh145859@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Dev.Ma_go
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,6 +27,16 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+authors:
+  sal:
+    name: DongHyeon Go
+    display_name: Ma_go
+    gravatar: 
+    email: gdh145859@gmail.com
+    web: https://go-dong.github.io
+    # twitter: https://twitter.com/username
+    description: "2018.08~"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
