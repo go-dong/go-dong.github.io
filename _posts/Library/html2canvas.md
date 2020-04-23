@@ -1,5 +1,5 @@
 ---
-layout: Library
+layout: post
 title:  "HTML2Canvas"
 date:   2020-04-23 20:00:00 +0900
 categories: HTML2Canvas
